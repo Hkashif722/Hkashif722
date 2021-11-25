@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hkashif722
+- 👋 Hi, I’m Kashif Hussain
 - 👀 I’m interested in mobile and full stack development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on full stack development or IOT based projects. 
