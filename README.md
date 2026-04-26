@@ -53,7 +53,6 @@ I started my journey as a full-stack web developer, which gives me a strong appr
 | [**GamificationPackage**](https://github.com/Hkashif722/GamificationPackage) | SDK for embedding gamification mechanics (badges, streaks, leaderboards) into iOS apps | Swift · SPM |
 | [**AssessmenyKitPackage**](https://github.com/Hkashif722/AssessmenyKitPackage) | Assessment and quiz kit for iOS — modular, embeddable evaluation flows | Swift · SwiftUI · SPM |
 | [**AcuityIQPackage**](https://github.com/Hkashif722/AcuityIQPackage) | Cognitive assessment package with IQ-style evaluation components | Swift · SwiftUI · SPM |
-| [**unity_package_iOS**](https://github.com/Hkashif722/unity_package_iOS) | Unity integration package for iOS — bridging Unity engine with native iOS features | Swift · SPM |
 
 ### UI Utilities
 
