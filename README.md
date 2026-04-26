@@ -1,66 +1,113 @@
-<h1 align="center">Hi 👋, I'm Kashif Hussain</h1>
-<h3 align="center">iOS Engineer & Full-Stack Developer | Swift Package Author | Pune, India</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Hkashif722"><img src="https://komarev.com/ghpvc/?username=Hkashif722&label=Profile%20views&color=0e75b6&style=flat" alt="Hkashif722" /></a>
-</p>
+# Kashif Hussain
 
----
+**iOS Developer · Swift Package Author · Pune, India**
 
-### 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hkashif722)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hkashif722)
 
-- 🍎 Passionate **iOS Developer** building reusable **Swift Packages** (networking, gamification, UI utilities)
-- 📱 Cross-platform experience with **Flutter/Dart**
-- 🔧 I love building developer tools and SDKs that solve real engineering problems
-- 🤝 Open to collaboration on iOS packages, web apps, and open-source projects
-- 🌐 Experienced **Full-Stack Web Developer** with Node.js, React, and microservices
-- 📍 Based in **Pune, India**
+</div>
 
 ---
 
-### 🚀 iOS Swift Packages I've Built
+## About Me
 
-| Package | Description |
-|---|---|
-| [IOS_APIManager](https://github.com/Hkashif722/IOS_APIManager) | Networking Package Manager for iOS |
-| [GamificationPackage](https://github.com/Hkashif722/GamificationPackage) | Gamification SDK for iOS apps |
-| [HKPopupManager](https://github.com/Hkashif722/HKPopupManager) | Custom popup/alert manager |
-| [SwiftUIUtility](https://github.com/Hkashif722/SwiftUIUtility) | Reusable SwiftUI components |
-| [AcuityIQPackage](https://github.com/Hkashif722/AcuityIQPackage) | Visual IQ assessment kit |
-| [AssessmentKitPackage](https://github.com/Hkashif722/AssessmenyKitPackage) | Assessment toolkit for iOS |
-| [unity_package_iOS](https://github.com/Hkashif722/unity_package_iOS) | Unity integration package for iOS |
+I'm an iOS developer based in **Pune, India**, specialising in building **Swift packages and SDKs** that help teams ship faster. My day-to-day work lives at the intersection of clean architecture, reusable component design, and native Apple platform development.
 
----
+I started my journey as a full-stack web developer, which gives me a strong appreciation for cross-platform thinking — but Swift and the Apple ecosystem are where I do my best work today.
 
-### 🛠️ Tech Stack
-
-**Mobile**
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & Other**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+- Building production-ready **Swift Package Manager (SPM)** libraries
+- Exploring **AI integration** in native iOS apps
+- Interested in **SwiftUI**, **Combine**, and modern async/await patterns
+- Open to collaborations on iOS tooling and SDK projects
 
 ---
 
-### 📊 GitHub Stats
+## iOS Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hkashif722&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkashif722&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![SPM](https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+![Combine](https://img.shields.io/badge/Combine-0070C9?style=for-the-badge&logo=apple&logoColor=white)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![CoreData](https://img.shields.io/badge/Core_Data-1575F9?style=for-the-badge&logo=apple&logoColor=white)
+![URLSession](https://img.shields.io/badge/URLSession-0070C9?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+## Featured iOS Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hkashif722)
+### Swift Packages & SDKs
+
+| Package | Description | Tech |
+|---|---|---|
+| [**IOS_APIManager**](https://github.com/Hkashif722/IOS_APIManager) | Lightweight networking package manager for iOS apps — clean, type-safe API layer over URLSession | Swift · SPM |
+| [**GamificationPackage**](https://github.com/Hkashif722/GamificationPackage) | SDK for embedding gamification mechanics (badges, streaks, leaderboards) into iOS apps | Swift · SPM |
+| [**AssessmenyKitPackage**](https://github.com/Hkashif722/AssessmenyKitPackage) | Assessment and quiz kit for iOS — modular, embeddable evaluation flows | Swift · SwiftUI · SPM |
+| [**AcuityIQPackage**](https://github.com/Hkashif722/AcuityIQPackage) | Cognitive assessment package with IQ-style evaluation components | Swift · SwiftUI · SPM |
+| [**unity_package_iOS**](https://github.com/Hkashif722/unity_package_iOS) | Unity integration package for iOS — bridging Unity engine with native iOS features | Swift · SPM |
+
+### UI Utilities
+
+| Library | Description | Tech |
+|---|---|---|
+| [**SwiftUIUtility**](https://github.com/Hkashif722/SwiftUIUtility) | Collection of reusable SwiftUI components and view modifiers | Swift · SwiftUI |
+| [**HKPopupManager**](https://github.com/Hkashif722/HKPopupManager) | Flexible popup presentation manager — supports custom animations and dismissal styles | Swift · UIKit |
+| [**PopoverUtility**](https://github.com/Hkashif722/PopoverUtility) | Streamlined popover utility with configurable anchoring and layout | Swift · SwiftUI |
+
+### Apps & Experiments
+
+| Project | Description | Tech |
+|---|---|---|
+| [**AIChatCourse**](https://github.com/Hkashif722/AIChatCourse) | Native iOS AI chat app exploring LLM integration patterns | Swift · SwiftUI |
+| [**DownloadManager**](https://github.com/Hkashif722/DownloadManager) | Background download manager with progress tracking and retry logic | Swift · URLSession |
+| [**Web_SSO**](https://github.com/Hkashif722/Web_SSO) | Web-based Single Sign-On integration for iOS apps | Swift · WebKit |
+| [**Experimental**](https://github.com/Hkashif722/Experimental) | R&D sandbox — where new iOS ideas get prototyped and tested | Swift |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hkashif722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkashif722&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hkashif722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Also Worked With
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to iOS collaborations and Swift package projects — feel free to reach out!*
+
+</div>
