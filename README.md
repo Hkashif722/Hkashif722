@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Animated build log ending in: Kashif Hussain, Senior iOS Engineer, Pune, India" width="100%" />
+  <img src="assets/hero.svg?v=2" alt="Animated build log ending in: Kashif Hussain, Senior iOS Engineer, Pune, India" width="100%" />
 </div>
 
 I build the iOS side of an enterprise learning platform: one codebase that ships as many white-label apps. Most of my time goes into Swift packages that other packages can depend on without a fight.
@@ -9,7 +9,7 @@ I build the iOS side of an enterprise learning platform: one codebase that ships
 ## How it's wired
 
 <div align="center">
-  <img src="assets/architecture.svg" alt="Diagram: a shared SwiftUI kit feeds six feature packages, which are assembled into white-label tenant targets and shipped to the App Store" width="100%" />
+  <img src="assets/architecture.svg?v=2" alt="Diagram: a shared SwiftUI kit feeds six feature packages, which are assembled into white-label tenant targets and shipped to the App Store" width="100%" />
 </div>
 
 ## Field notes
