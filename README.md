@@ -1,22 +1,19 @@
-<div align="center">
-  <img src="assets/hero.svg?v=2" alt="Animated build log ending in: Kashif Hussain, Senior iOS Engineer, Pune, India" width="100%" />
-</div>
+<img src="assets/header.svg" alt="Kashif Hussain, senior iOS engineer in Pune, India. Swift, SwiftUI, and the unglamorous work that keeps an app shippable." width="100%" />
 
-I build the iOS side of an enterprise learning platform: one codebase that ships as many white-label apps. Most of my time goes into Swift packages that other packages can depend on without a fight.
+I'm a senior iOS engineer in Pune. I build and ship Swift apps and the packages underneath them, and I publish the reusable parts here.
 
-`Swift` · `SwiftUI` · `UIKit` · `Combine` · `MVVM` · `SPM` · `Fastlane` · `Azure DevOps` · `Firebase`
+## Expertise
 
-## How it's wired
+<img src="assets/expertise.svg" alt="Expertise: Swift, SwiftUI, UIKit; MVVM and modular Swift packages; Fastlane, Azure DevOps, TestFlight and App Store delivery; SSO, encryption and security audits." width="100%" />
 
-<div align="center">
-  <img src="assets/architecture.svg?v=2" alt="Diagram: a shared SwiftUI kit feeds six feature packages, which are assembled into white-label tenant targets and shipped to the App Store" width="100%" />
-</div>
+## How I work
 
-## Field notes
-
-- **Circular dependencies.** Two feature packages that need to talk but can't import each other? A tiny shared events package between them, with NotificationCenter carrying the messages, broke the cycle for me.
-- **iOS 26.** Liquid Glass reshaped the tab and navigation bars, so tenant-branded apps needed explicit appearance overrides.
-- **Right now.** Picking up React (coming from a SwiftUI mindset) and .NET backend development on the side.
+- **Small packages, clear edges.** Features live in their own Swift packages with a deliberately small public API, so other code can depend on them without knowing how they work inside.
+- **Break cycles early.** When two packages need to talk but can't import each other, I put a thin shared-events package between them and let NotificationCenter carry the messages.
+- **Automate the release path.** Fastlane lanes and TestFlight rounds instead of hand-archiving, so shipping is repeatable.
+- **Give every iOS release a compatibility pass.** iOS 26's Liquid Glass reshaped the tab and navigation bars; I override appearance explicitly rather than trusting defaults.
+- **Treat security as part of the feature.** Encryption and token handling get reviewed alongside the code, not after it.
+- **Learn sideways.** React and .NET backend work, picked up alongside iOS.
 
 ## Open source
 
