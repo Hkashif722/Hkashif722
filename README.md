@@ -1,49 +1,66 @@
 <div align="center">
 
-# Kashif Hussain
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Kashif%20Hussain&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=iOS%20Engineer%20%C2%B7%20Swift%20Wizard%20%C2%B7%20Package%20Author&descSize=18&descAlignY=58" alt="Kashif Hussain banner" />
 
-**iOS Developer · Swift Package Author · Pune, India**
+<a href="https://github.com/Hkashif722">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7DF9FF&center=true&vCenter=true&width=720&height=50&lines=Senior+iOS+Engineer;Casting+SwiftUI+spells;Architecting+modular+SPM+packages;Shipping+enterprise+apps+to+the+App+Store;Turning+coffee+into+clean+Swift" alt="Typing animation" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-hussain-ba5b0a197)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hkashif722)
+![Location](https://img.shields.io/badge/Pune-India-FA7343?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 
+## 🧙 The Wizard's Grimoire
+
+```swift
+struct Kashif: iOSEngineer {
+    let role      = "Senior iOS Engineer"
+    let base      = "Pune, India"
+    let spells    = ["Swift", "SwiftUI", "UIKit", "Combine", "async/await"]
+    let grimoire  = ["modular SPM architecture", "MVVM", "Fastlane CI/CD"]
+    let questLog  = "Enterprise learning platforms, shipped to the App Store"
+    let origin    = "Full-stack web dev, now Apple platforms all the way"
+
+    func cast() -> String {
+        "Clean architecture, reusable components, fewer bugs. 🪄"
+    }
+}
+```
+
+- 📦 Building production-ready **Swift Package Manager** libraries and SDKs
+- 📱 Working on a multi-tenant enterprise learning platform with white-label iOS apps
+- 🤖 Exploring **AI integration** in native iOS apps
+- 🔭 Digging into **SwiftUI**, **Combine** and modern async/await patterns
+- 🤝 Open to collaborations on iOS tooling and SDK projects
+
 ---
 
-## About Me
-
-I'm an iOS developer based in **Pune, India**, specialising in building **Swift packages and SDKs** that help teams ship faster. My day-to-day work lives at the intersection of clean architecture, reusable component design, and native Apple platform development.
-
-I started my journey as a full-stack web developer, which gives me a strong appreciation for cross-platform thinking — but Swift and the Apple ecosystem are where I do my best work today.
-
-- Building production-ready **Swift Package Manager (SPM)** libraries
-- Exploring **AI integration** in native iOS apps
-- Interested in **SwiftUI**, **Combine**, and modern async/await patterns
-- Open to collaborations on iOS tooling and SDK projects
-
----
-
-## iOS Tech Stack
+## ⚡ Spellbook
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<img src="https://skillicons.dev/icons?i=swift,xcode,apple,firebase,git,github,azure,react,js,cs,dotnet&theme=dark" alt="Tech icons" />
+
+<br/><br/>
+
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=apple&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![SPM](https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
 ![Combine](https://img.shields.io/badge/Combine-0070C9?style=for-the-badge&logo=apple&logoColor=white)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/Core_Data-1575F9?style=for-the-badge&logo=apple&logoColor=white)
-![URLSession](https://img.shields.io/badge/URLSession-0070C9?style=for-the-badge&logo=apple&logoColor=white)
+![SPM](https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-1575F9?style=for-the-badge&logo=apple&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 </div>
 
 ---
 
-## Featured iOS Projects
+## 🪄 Featured Enchantments
 
 ### Swift Packages & SDKs
 
@@ -73,24 +90,24 @@ I started my journey as a full-stack web developer, which gives me a strong appr
 
 ---
 
-## GitHub Stats
+## 📊 Mana Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hkashif722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkashif722&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hkashif722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkashif722&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hkashif722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=hkashif722&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkashif722&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## Also Worked With
+## 🌱 Also Worked With
 
 <div align="center">
 
@@ -101,12 +118,10 @@ I started my journey as a full-stack web developer, which gives me a strong appr
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 *Open to iOS collaborations and Swift package projects — feel free to reach out!*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer wave" />
 
 </div>
