@@ -22,9 +22,6 @@ I'm a senior iOS engineer in Pune. I build and ship Swift apps and the packages 
 | Package | What it does | Tech |
 |---|---|---|
 | [**IOS_APIManager**](https://github.com/Hkashif722/IOS_APIManager) | Lightweight networking package manager for iOS apps — clean, type-safe API layer over URLSession | Swift · SPM |
-| [**GamificationPackage**](https://github.com/Hkashif722/GamificationPackage) | SDK for embedding gamification mechanics (badges, streaks, leaderboards) into iOS apps | Swift · SPM |
-| [**AssessmenyKitPackage**](https://github.com/Hkashif722/AssessmenyKitPackage) | Assessment and quiz kit for iOS — modular, embeddable evaluation flows | Swift · SwiftUI · SPM |
-| [**AcuityIQPackage**](https://github.com/Hkashif722/AcuityIQPackage) | Cognitive assessment package with IQ-style evaluation components | Swift · SwiftUI · SPM |
 
 ### UI utilities
 
