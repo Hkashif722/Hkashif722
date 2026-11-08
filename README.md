@@ -94,14 +94,13 @@ struct Kashif: iOSEngineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hkashif722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkashif722&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+![Followers](https://img.shields.io/github/followers/Hkashif722?style=for-the-badge&logo=github&color=7DF9FF&labelColor=0D1117)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHkashif722&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=A78BFA&labelColor=0D1117)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hkashif722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=hkashif722&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkashif722&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
